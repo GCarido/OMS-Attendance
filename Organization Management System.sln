@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Organization Management System", "Organization Management System\Organization Management System.csproj", "{C50501E7-CB55-4F19-8C37-800A56D1423E}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "Setup\Setup.vdproj", "{7D3595A4-BB20-493D-811F-D950A000B4FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C50501E7-CB55-4F19-8C37-800A56D1423E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C50501E7-CB55-4F19-8C37-800A56D1423E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C50501E7-CB55-4F19-8C37-800A56D1423E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C50501E7-CB55-4F19-8C37-800A56D1423E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D3595A4-BB20-493D-811F-D950A000B4FC}.Debug|Any CPU.ActiveCfg = Debug
+		{7D3595A4-BB20-493D-811F-D950A000B4FC}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {38FB2102-A162-4A77-8E1B-6DA672933B50}
+	EndGlobalSection
+EndGlobal
